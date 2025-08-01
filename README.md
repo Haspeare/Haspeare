@@ -1,16 +1,18 @@
-## Hi there 👋
+## 🤗Hi, I'm HaspeareH ! 
 
-<!--
-**Haspeare/Haspeare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at FengChia University(Taichung,Taiwan), majoring in Information Engineering and Computer Science. <br>
+I am interested in the field of AI / Deep learning and also in application development. <br>
 
-Here are some ideas to get you started:
+## 🔍What am I learning ?
+### 🌐Field
+- AI/Deep Learning: Object Detection, Large Language Model, Natural Language Processing,  Model Improvement
+- Application Development: Android
+### 📚Programming Language
+- C
+- Python
+- Java
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Goal of 2025-2026
+- Improve programming skills
+- Learn Japanese (Get JLPT N3 or N2 certificate)
