@@ -13,6 +13,6 @@ I am interested in the field of AI / Deep learning and also in application devel
 - Java
 - SQL
 
- ## Goal of 2025-2026
+ ## ⚡Goal of 2025-2026
 - Improve programming skills
 - Learn Japanese (Get JLPT N3 or N2 certificate)
